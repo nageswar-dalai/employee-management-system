@@ -1,75 +1,41 @@
-# Employee Management System
+# Employee Management System V2
 
-A beginner-friendly Python project for managing employee information and performing basic salary analysis.
+A console-based Employee Management System developed using Python.
 
-## 📌 Project Overview
+## Features
 
-The Employee Management System is a console-based Python application that allows users to manage employee records and perform basic salary calculations.
+- Add Employee
+- View Employees
+- Search Employee
+- Average Salary
+- Highest Salary
+- Lowest Salary
+- Employees Above Salary
+- Update Employee
+- Delete Employee
+- JSON File Handling
+- Department-wise Average Salary
+- City-wise Employee Count
+- City-wise Average Salary
+- Total Employees
 
-## 🚀 Features
+## Technologies Used
 
-* Add a new employee
-* View all employees
-* Search employee by name
-* Calculate average salary
-* Find highest-paid employee
-* Find lowest-paid employee
-* Find employees above a specified salary
-* Exit the application
+- Python
+- JSON
+- File Handling
 
-## 🛠️ Technologies Used
+## Project Structure
 
-* Python
-* Lists
-* Dictionaries
-* Functions
-* Loops
-* Conditional Statements
-* Basic String Methods
-
-## 📂 Project Structure
-
-```text
-employee-management-system/
-│
-├── employee_management.py
+Employee_Management_System/
+├── employee_management.py.py
+├── employees.json
 └── README.md
-```
 
-## ▶️ How to Run
+## How to Run
 
-1. Download or clone this repository.
-2. Open the project folder.
-3. Run the following command:
+python employee_management.py.py
 
-```bash
-python employee_management.py
-```
+## Author
 
-4. Select an option from the menu and follow the instructions.
-
-## 📊 Example Features
-
-The application can calculate:
-
-* Average employee salary
-* Highest salary
-* Lowest salary
-* Employees earning above a specified salary
-
-## 🎯 Learning Objectives
-
-This project was created to practice fundamental Python programming concepts and build a strong foundation for further learning in Data Analytics.
-
-## 👨‍💻 Author
-
-**Nageswar Dalai**
-
-## 📌 Future Improvements
-
-* Update employee details
-* Delete employee
-* Add department and city
-* Department-wise salary analysis
-* City-wise employee analysis
-* Store employee data in a file/database
+Nageswar Dalai
