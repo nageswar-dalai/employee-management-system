@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul",
+        "age": 25,
+        "salary": 30000,
+        "department": "IT",
+        "city": "Bhubaneswar"
+    },
+    {
+        "id": 2,
+        "name": "Amit",
+        "age": 28,
+        "salary": 40000,
+        "department": "HR",
+        "city": "Cuttack"
+    },
+    {
+        "id": 3,
+        "name": "Priya",
+        "age": 24,
+        "salary": 35000,
+        "department": "IT",
+        "city": "Bhubaneswar"
+    },
+    {
+        "id": 4,
+        "name": "Suresh",
+        "age": 26,
+        "salary": 30000.0,
+        "department": "Sales",
+        "city": "Puri"
+    }
+]
